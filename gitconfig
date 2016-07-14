@@ -1,6 +1,6 @@
 [user]
-  name = Jim OKelly
-  email = jim@devschool.rocks
+  name = sissy wang
+  email = sissy.wang@outlook.com
 
 [color]
   diff = auto
@@ -31,7 +31,7 @@
   enabled = 1
 
 [github]
-  user = JimOKelly
+  user = SissyWang
 
 [merge]
   ff = only
